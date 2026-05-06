@@ -1,6 +1,36 @@
-# Data Structures Project
+## Data Structures Emergency Traveling Plan
 
-## Emergency Traveling Plan
+A graph-based shortest-path emergency travel planner implemented in C++
+using adjacency lists, BFS, a custom queue, and linked lists — with no STL containers.
+
+---
+
+## About
+
+This project models a city-to-city emergency travel system using a directed graph.
+Given N cities connected sequentially, plus optional "aerial routes" between any two
+cities, it computes the minimum travel time (in days) from city 1 to city N using
+Breadth-First Search (BFS).
+
+- Normal road travel between adjacent cities: **4 hours**
+- Aerial route between any two cities: **24 hours**
+- BFS finds the optimal route across all possible combinations
+
+Built as a FAST-NUCES Data Structures course project by **Umaima Hashmi (22i-1984)**
+and **Nooran Ishtiaq (22i-2010)**.
+
+---
+
+## Data Structures Used
+
+| Structure | Implementation |
+|---|---|
+| Singly Linked List | Custom `node` + `linkedlist` classes |
+| Queue | Linked-list-based, no STL |
+| Graph | Adjacency list using linked lists |
+| BFS | Custom queue-driven traversal |
+
+---
 
 ### Linked List
 
