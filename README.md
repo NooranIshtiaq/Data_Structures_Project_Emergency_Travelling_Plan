@@ -16,9 +16,6 @@ Breadth-First Search (BFS).
 - Aerial route between any two cities: **24 hours**
 - BFS finds the optimal route across all possible combinations
 
-Built as a FAST-NUCES Data Structures course project by **Umaima Hashmi (22i-1984)**
-and **Nooran Ishtiaq (22i-2010)**.
-
 ---
 
 ## Data Structures Used
