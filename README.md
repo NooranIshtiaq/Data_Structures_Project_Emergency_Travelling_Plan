@@ -1,10 +1,5 @@
 # Data Structures Project
 
-## Group Members:
-
-1. Umaima Hashmi (22i-1984)
-2. Nooran Ishtiaq (22i-2010)
-
 ## Emergency Traveling Plan
 
 ### Linked List
